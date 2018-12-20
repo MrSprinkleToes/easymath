@@ -1,4 +1,6 @@
-# easymath
-A Python module created on 12/18/2018.
+========
+easymath
+========
 
-A module to simplify math in Python! (probably makes it more complex...
+A module created to simplify math in Python.
+============================================
